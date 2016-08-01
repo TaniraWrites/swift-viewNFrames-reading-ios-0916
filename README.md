@@ -1,20 +1,23 @@
-# Viewsnframes
+# Views - Frames & Bounds
 
-## Objectives
+![](http://i.imgur.com/0gf2IgJ.jpg)  
 
-1. Objective 1
-2. Objective 2.
+> When someone says: 'I want a programming language in which I need only say what I wish done', give him a lollipop. -[Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+ 
 
-## Instructions
+## Learning Objectives
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+* 
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
 
-### Part 1: Do Some Stuff
 
-## Resources
+## Outline / Notes
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+I **LOVE** this explanation regarding Frames & Bounds. It was a stackoverflow answer. 
+http://stackoverflow.com/a/28917673
+
+[Apple doc](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CocoaViewsGuide/Coordinates/Coordinates.html) on view geometry
+
+I like the approach the Stack Overflow answer gives. I think we could simplify it even more. Maybe even include a project that allows them to mess with the controls to see how stuff moves
 
 <a href='https://learn.co/lessons/ViewsNframes' data-visibility='hidden'>View this lesson on Learn.co</a>
