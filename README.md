@@ -8,21 +8,4 @@
 
 * FILL IN
 
-## Outline / Notes
-
-I **LOVE** this explanation regarding Frames & Bounds. It was a stackoverflow answer. 
-http://stackoverflow.com/a/28917673
-
-[Apple doc](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CocoaViewsGuide/Coordinates/Coordinates.html) on view geometry
-
-I like the approach the Stack Overflow answer gives. I think we could simplify it even more. Maybe even include a project that allows them to mess with the controls to see how stuff moves
-
-Do we go into views in code here? Like this?
-
-```swift
-let frame = CGRect(x: 0.0, y: 0.0, width: 50.0, height: 50.0)
-
-let funView = UIView(frame: frame)
-```
-
 <a href='https://learn.co/lessons/ViewsNframes' data-visibility='hidden'>View this lesson on Learn.co</a>
