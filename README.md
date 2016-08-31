@@ -1,12 +1,19 @@
-# Views - Frames & Bounds
+# Frames & Bounds
 
 ![](http://i.imgur.com/0gf2IgJ.jpg)  
 
 > When someone says: 'I want a programming language in which I need only say what I wish done', give him a lollipop. -[Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
- 
+
+## Overview
+
+In this lesson, we'll introduce the view hierarchy as well as frames and bounds. 
+
 ## Learning Objectives
 
-* FILL IN
+* Describe the view hierarchy
+* Explain how views are laid out according to a coordinate system
+* Explain how frames describe a view's location and size
+* Describe how frames and bounds are used in iOS
 
 ## User Interface Layouts
 
